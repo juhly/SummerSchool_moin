@@ -8,7 +8,7 @@
 |  6 | Chiara Girotto          | chiara.girotto@web.de         | Goethe University Frankfurt, LOEWE project                                  |                                      |
 |  7 | Michael Bilger          | sofnod@googlemail.com         | CAU Kiel, Institute of Prehistoric and Protohistoric Archaeology            |                                      |
 |  8 | Joe Roe                 | jwg983@hum.ku.dk              | UCL & Copenhagen University                                                 |                                      |
-|  9 | Juliane Watson (Bonneß) | juliane.bonness@dainst.de     | Deutsches Archäologisches Institut, IT                                      |                                      |
+|  9 | Juliane Watson (Bonneß) | juliane.bonness@web.de     | Deutsches Archäologisches Institut, IT                                      |                                      |
 | 10 | Franziska Faupel        | franziska-faupel@gmx.de       | CAU Kiel, Institute of Prehistoric and Protohistoric Archaeology            |                                      |
 | 11 | Sandra Soederlind       | ssoederlind@gshdl.uni-kiel.de | Graduate School Human Development in Landscapes                             |                                      |
 | 12 | Loren V. Cowin          | Lcowin@gshdl.uni-kiel.de      | Graduate School Human Development in Landscapes                             |                                      |
